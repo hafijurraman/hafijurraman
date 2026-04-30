@@ -5,11 +5,13 @@
 <h2 align="left">Hi 👋! My name is Hafijur Raman and I'm a Computer Vision Master's student at UCF.</h2>
 
 ### 🧠 About Me
-- 🎓 Master’s student in Computer Vision at the University of Central Florida (2024–2026)
-- 🔬 Software Developer Intern @ Prodisphere – Building Prodisphere 🛠️ Software + AI (Summer 2025)
-- 🔬 Former Software Engineer Intern @ UrbanITY Lab, focusing on LIDAR & autonomous vehicles  
-- 👨‍🏫 Ex-TA for Data Structures & Algorithms at UCF  
-- 📚 Passionate about AI, NLP, Computer Vision, LLMs, AI Agent & Backend Development.  
+
+- 🎓 Master’s student in Computer Vision at the University of Central Florida.
+- 💻 I build software at the intersection of AI, computer vision, NLP, and backend development.
+- 🚗 Previously worked on LiDAR perception systems for autonomous vehicle research at UrbanITY Lab.
+- 🤖 Currently interested in AI agents, LLMs, vision models, and practical machine learning systems.
+- 🛠️ I mainly work with Python, C/C++, JavaScript, PyTorch, TensorFlow, React, Node.js, Docker, and Linux.
+- 🚀 My goal is to build reliable AI-powered software that solves real-world problems.
 
 ---
 
