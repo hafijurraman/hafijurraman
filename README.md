@@ -6,6 +6,7 @@
 
 ### 🧠 About Me
 
+- 💻 Joined Xometry as a Software Engineer Intern for Summer 2026.
 - 🎓 Master’s student in Computer Vision at the University of Central Florida.
 - 💻 I build software at the intersection of AI, computer vision, NLP, and backend development.
 - 🚗 Previously worked on LiDAR perception systems for autonomous vehicle research at UrbanITY Lab.
