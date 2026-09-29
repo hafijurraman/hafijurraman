@@ -5,12 +5,12 @@
 <h2 align="left">Hi 👋! My name is Hafijur Raman and I'm a Computer Vision Master's student at UCF.</h2>
 
 ### 🧠 About Me
-
+- 👁️ Computer Vision Research Engineer at the Institute for Simulation & Training – UCF.
 - 💻 Joined Xometry as a Software Engineer Intern for Summer 2026.
 - 🎓 Master’s student in Computer Vision at the University of Central Florida.
 - 💻 I build software at the intersection of AI, computer vision, NLP, and backend development.
 - 🚗 Previously worked on LiDAR perception systems for autonomous vehicle research at UrbanITY Lab.
-- 🤖 Currently interested in AI agents, LLMs, vision models, and practical machine learning systems.
+- 🤖 Currently interested in AI agents,SWE, LLMs, vision models, and practical machine learning systems.
 - 🛠️ I mainly work with Python, C/C++, JavaScript, PyTorch, TensorFlow, React, Node.js, Docker, and Linux.
 - 🚀 My goal is to build reliable AI-powered software that solves real-world problems.
 
